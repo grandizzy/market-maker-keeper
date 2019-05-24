@@ -10,3 +10,6 @@
 [submodule "lib/gdax-client"]
 	path = lib/gdax-client
 	url = https://github.com/makerdao/gdax-client.git
+[submodule "lib/uniswap"]
+	path = lib/uniswap
+	url = https://github.com/grandizzy/uniswap-python.git
